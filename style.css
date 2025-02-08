@@ -1,0 +1,12 @@
+nav a {
+  text-decoration: none;
+  color: rgb(106, 76, 176);
+  font-weight: bold;
+  margin: 0 15px;
+}
+
+nav a:hover,
+nav a.active {
+  color: #d11d32;
+  text-decoration: underline;
+}
